@@ -1,10 +1,10 @@
 function calcularMayor(num1, num2) {
-    if (num1 > num2) {
+    if (numero1 > numero2) {
         alert("El número mayor es: " + num1);
-    } else if (num2 > num1) {
+    } else if (numero2 > numero1) {
         alert("El número mayor es: " + num2);
     } else {
-        alert(`Ambos números son iguales: ${num1}`);
+        alert(`Ambos números son iguales: ${numero1}`);
     }
 }
 
