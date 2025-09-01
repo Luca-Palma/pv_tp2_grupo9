@@ -1,4 +1,4 @@
-function calcularMayor(num1, num2) {
+function calcularMayor(numero1, numero2) {
     if (numero1 > numero2) {
         alert("El número mayor es: " + numero1);
     } else if (numero2 > numero1) {
